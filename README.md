@@ -45,5 +45,4 @@ Follow these steps to get the project running locally:
 
    ```bash
    http://localhost:5173 
-
    
