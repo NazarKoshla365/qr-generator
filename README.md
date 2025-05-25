@@ -28,18 +28,21 @@ Follow these steps to get the project running locally:
 
 2. **Navigate to the project folder:**
 
-
+  ```bash
   cd qr-generator
 
 3. **Install dependencies:**  
+
   ```bash
   yarn install
 
 4. **Start the development server:**  
+
   ```bash
   yarn dev
 
 5. **Open your browser and go to:** 
+
   ```bash
   http://localhost:5173 
 
