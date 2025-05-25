@@ -46,3 +46,6 @@ Follow these steps to get the project running locally:
    ```bash
    http://localhost:5173 
    
+## Public Demo
+  You can also try the live demo of the project here:
+  https://qr-generator-five-eosin.vercel.app/
